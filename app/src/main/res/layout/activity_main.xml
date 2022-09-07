@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/enter_first_no"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         android:minHeight="48dp"
         android:textSize="34sp" />
 
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/enter_second_no"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         android:textSize="34sp" />
 
     <TextView
